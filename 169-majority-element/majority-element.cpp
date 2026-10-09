@@ -10,8 +10,6 @@ public:
             if(count==0)
             {
                 elem=nums[i];
-                count++;
-                continue;
             }
             if(nums[i]==elem)
                 count++;
